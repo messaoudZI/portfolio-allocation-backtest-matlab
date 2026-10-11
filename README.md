@@ -23,7 +23,7 @@ Comparer 5 stratégies d'allocation, retenir la meilleure, sélectionner les 15 
 ## Résultats
 ![Partie A](images/partie_A.png)
 ![Partie B](images/partie_B.png)
-![Partie C](images/partie_C.png)
+![Partie C](images/Screenshot (323).png)
 
 
 ## Utilisation
