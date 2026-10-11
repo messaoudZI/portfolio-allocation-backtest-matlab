@@ -21,7 +21,10 @@ Comparer 5 stratégies d'allocation, retenir la meilleure, sélectionner les 15 
 | C | OS**, reste | Backtest avec réestimation quotidienne vs benchmark Euro Stoxx |
 
 ## Résultats
+![Partie A](images/partie_A.png)
+![Partie B](images/partie_B.png)
 ![Partie C](images/partie_C.png)
+
 
 ## Utilisation
 1. Placer `DATI.xlsx` (feuille `Prices_giornalieri`) et `Eurostoxx.xlsx` (feuille `Best benchmark`) dans le dossier.
@@ -33,4 +36,4 @@ Comparer 5 stratégies d'allocation, retenir la meilleure, sélectionner les 15 
 - Données non incluses (usage académique)
 
 ## Auteur
-Ton Prénom Nom, [LinkedIn](lien)
+ZINA MESSAOUD, [LinkedIn]((https://www.linkedin.com/in/zina-messaoud-5922b13b6/?isSelfProfile=true))
